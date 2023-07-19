@@ -1,7 +1,7 @@
 # PHPcrud
 Este projeto foi criado para praticar o bom e velho crud usando PHP. Basicamente uma aplicação web desenvolvida em PHP que permite realizar operações básicas de CRUD (Create, Read, Update, Delete) para gerenciar usuários. Com esse sistema, os usuários poderão ser cadastrados, editados, listados e deletados através de uma interface amigável.
 
-<img src="/apresentacao/CadastroCrudPHP.png">
+![Cadastro](apresentacao/CadastroCrudPHP.png)
 
 ##Recursos e Funcionalidades:
 Cadastro de Usuários: O sistema permitirá o cadastro de novos usuários, coletando informações como nome, e-mail e senha. Os dados serão armazenados em um banco de dados seguro.
